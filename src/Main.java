@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
     public static String[] products = { "Хлеб", "Пачка гречки", "Упаковка яиц", "Мороженка" };
-    public static int[] prices = { 50, 135, 65 , 53 };
+    public static int[] prices = { 50, 135, 65, 53 };
 
     public static void main(String[] args) {
         System.out.println("Добро пожаловать в магазин!");
